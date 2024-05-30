@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Added Component: Designator=S1(DTH11)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Member To Class: ClassName=Sheet2 Member=Component R2 1k
+Added Member To Class: ClassName=Sheet2 Member=Component S1 DTH11

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=G32 Pin=R?-2
+Removed Pin From Net: NetName=G32 Pin=SW?-2
+Added Pin To Net: NetName=G27 Pin=R?-2
+Added Pin To Net: NetName=G27 Pin=SW?-2

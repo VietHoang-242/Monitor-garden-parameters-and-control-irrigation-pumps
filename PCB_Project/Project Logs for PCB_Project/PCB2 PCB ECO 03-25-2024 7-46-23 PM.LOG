@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=G27 Pin=*1-11
+Added Pin To Net: NetName=G27 Pin=R4-2
+Added Pin To Net: NetName=G27 Pin=SW3-2
+Added Net: Name=G27
+Added Pin To Net: NetName=G32 Pin=*1-7
+Added Pin To Net: NetName=G32 Pin=R3-2
+Added Pin To Net: NetName=G32 Pin=SW2-2
+Added Net: Name=G32

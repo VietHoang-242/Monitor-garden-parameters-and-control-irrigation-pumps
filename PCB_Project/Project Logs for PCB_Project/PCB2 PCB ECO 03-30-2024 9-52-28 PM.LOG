@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=G27 Pin=R1-1
+Removed Pin From Net: NetName=3.3V Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Pin From Net: NetName=G27 Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=G27 Pin=R1-2
+Added Pin To Net: NetName=G27 Pin=SW1-2
+Added Pin To Net: NetName=3.3V Pin=SW1-4
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=Sheet2 Member=Component *1 ESP32 DEV KIT
+Added Member To Class: ClassName=Sheet2 Member=Component JP2 JP 1x8 2.54

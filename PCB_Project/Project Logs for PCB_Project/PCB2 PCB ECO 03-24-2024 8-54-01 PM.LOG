@@ -1,0 +1,32 @@
+Added Component: Designator=R?(tro vach 1/2w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 1/2w 1K"; VariantName = "[No Variations]"
+Added Component: Designator=S?(DTH11)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SW/4/06MM)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=R?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=G35 Pin=*1-6
+Added Pin To Net: NetName=G35 Pin=R?-1
+Added Pin To Net: NetName=G35 Pin=SW?-4
+Added Net: Name=G35
+Added Member To Class: ClassName=Sheet2 Member=Component JP? JP 1x4 2.54
+Added Member To Class: ClassName=Sheet2 Member=Component JP? JP 1x4 2.54
+Added Member To Class: ClassName=Sheet2 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet2 Member=Component S? DTH11
+Added Member To Class: ClassName=Sheet2 Member=Component SW? Button

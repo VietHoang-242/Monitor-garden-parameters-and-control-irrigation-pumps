@@ -1,0 +1,54 @@
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP2
+Change Component Designator: OldDesignator=JP? NewDesignator=JP3
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Added Component: Designator=R3(tro vach 1/2w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 1/2w 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(tro vach 1/2w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 1/2w 1K"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SW/4/06MM)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW3(SW/4/06MM)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=3.3V Pin=SW2-4
+Added Pin To Net: NetName=3.3V Pin=SW3-4
+Change Net Name : Old Net Name=NetL?_1 New Net Name=NetL1_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=SW2-2
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=SW3-2
+Added Net: Name=NetR4_2
+Added Member To Class: ClassName=Sheet2 Member=Component JP1 JP 1x4 2.54
+Added Member To Class: ClassName=Sheet2 Member=Component JP3 JP 1x4 2.54
+Added Member To Class: ClassName=Sheet2 Member=Component R1 1k
+Added Member To Class: ClassName=Sheet2 Member=Component R3 1k
+Added Member To Class: ClassName=Sheet2 Member=Component R4 1k
+Added Member To Class: ClassName=Sheet2 Member=Component SW2 Button
+Added Member To Class: ClassName=Sheet2 Member=Component SW3 Button

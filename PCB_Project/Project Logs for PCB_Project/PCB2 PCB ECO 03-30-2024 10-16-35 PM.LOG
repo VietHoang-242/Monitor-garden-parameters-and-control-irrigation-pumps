@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=G27 Pin=R1-1
+Removed Pin From Net: NetName=3.3V Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Pin From Net: NetName=G27 Pin=SW1-4
+Removed Member From Class: ClassName=Sheet2 Member=R1
+Removed Member From Class: ClassName=Sheet2 Member=SW1
+Added Component: Designator=R?(tro vach 1/2w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 1/2w 1K"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SW/4/06MM)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=G32 Pin=R?-2
+Added Pin To Net: NetName=G32 Pin=SW?-2
+Added Pin To Net: NetName=3.3V Pin=SW?-4
+Added Member To Class: ClassName=Sheet2 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet2 Member=Component SW? Button

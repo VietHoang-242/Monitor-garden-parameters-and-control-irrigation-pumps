@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/bt1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bt1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bt1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bt2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bt2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bt2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bt3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bt3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bt3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/doan/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/doan/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/doan/build" />
+      <excludeFolder url="file://$MODULE_DIR$/doan1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/doan1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/doan1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/quanlikho/quanlikho/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/quanlikho/quanlikho/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/quanlikho/quanlikho/build" />
+      <excludeFolder url="file://$MODULE_DIR$/cuoiki/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/cuoiki/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/cuoiki/build" />
+      <excludeFolder url="file://$MODULE_DIR$/FireFlutter/flutter_fire/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/FireFlutter/flutter_fire/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/FireFlutter/flutter_fire/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_fire/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_fire/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_fire/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
